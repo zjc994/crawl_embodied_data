@@ -66,6 +66,8 @@ HF_ENDPOINT=https://hf-mirror.com python task1_trending.py
 python build_website.py --deploy
 ```
 
+注意：**只要 `hf_token.txt` 存在，直接 `python build_website.py` 也会自动部署**。只想本地看页面的话，把 token 文件移走，或者用 `--serve`。
+
 `hf_token.txt` 已在 `.gitignore` 中，不会被提交。
 
 ---

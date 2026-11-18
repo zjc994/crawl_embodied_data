@@ -450,7 +450,7 @@ def deploy(token):
         info = api("GET", f"https://huggingface.co/api/spaces/{repo_id}", token).json()
         sdk = info.get("sdk")
         if sdk and sdk != "static":
-            print(f"  ⚠ 注意：该 Space 当前 SDK 是 {sdk}，不是 static。")
+            print(f"  [注意] 该 Space 当前 SDK 是 {sdk}，不是 static。")
             print(f"    请到 https://huggingface.co/spaces/{repo_id}/settings 把 SDK 改成 Static，或删掉这个 Space 重跑。")
     except RuntimeError as e:
         print(f"  （读取 Space 信息失败，跳过 SDK 检查：{e}）")
@@ -472,7 +472,7 @@ def deploy(token):
         names = [t.get("path") for t in tree]
         print(f"[部署] 仓库文件：{', '.join(names) if names else '(空)'}")
         if "index.html" not in names:
-            print("  ⚠ 仓库里没有 index.html，部署可能没生效。")
+            print("  [注意] 仓库里没有 index.html，部署可能没生效。")
     except RuntimeError as e:
         print(f"  （回读文件列表失败：{e}）")
 
@@ -531,16 +531,16 @@ def main():
     if token:
         try:
             url = deploy(token)
-            print(f"\n✅ 分享链接（任何人可访问）：{url}")
+            print(f"\n[成功] 分享链接（任何人可访问）：{url}")
             print("   首次构建约需 1-2 分钟，之后可重复运行本脚本更新。")
         except Exception as e:
-            print(f"\n❌ 部署失败：{e}")
+            print(f"\n[失败] 部署失败：{e}")
             print(f"   网页本身没问题，已保存在本地：{HTML_PATH}")
             print("   排查顺序：token 是否有 write 权限 → Space 的 SDK 是否是 static → 网络能否直连 huggingface.co")
             if not args.serve:
                 sys.exit(2)
     else:
-        print("\n⚠ 未配置 HF_TOKEN，暂未部署。获取可分享链接：")
+        print("\n[注意] 未配置 HF_TOKEN，暂未部署。获取可分享链接：")
         print("   1. 到 https://huggingface.co/settings/tokens 创建一个 write 权限 token")
         print(f"   2. 把 token 存到 {TOKEN_FILE}（或设置环境变量 HF_TOKEN），再运行：python build_website.py --deploy")
         print("   网页已保存在本地 site/index.html，可直接双击打开。")
