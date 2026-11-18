@@ -1,0 +1,282 @@
+{
+  "beijing_date": "2026-11-14",
+  "fetched_at": "2026-11-14 21:59:38",
+  "repo_types": {
+    "models": [
+      {
+        "rank": 1,
+        "repo_id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "author": "xtools-at",
+        "likes": 7253,
+        "downloads": 24470,
+        "trending_score": 4424,
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+      },
+      {
+        "rank": 2,
+        "repo_id": "MiniMaxAI/MiniMax-H3-Image",
+        "author": "MiniMaxAI",
+        "likes": 1083,
+        "downloads": 517948,
+        "trending_score": 997,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      },
+      {
+        "rank": 3,
+        "repo_id": "Lightricks/LTX-2.5",
+        "author": "Lightricks",
+        "likes": 11859,
+        "downloads": 2777667,
+        "trending_score": 427,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5"
+      },
+      {
+        "rank": 4,
+        "repo_id": "Qwen/Qwen3.8-27B",
+        "author": "Qwen",
+        "likes": 19946,
+        "downloads": 6757964,
+        "trending_score": 416,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+      },
+      {
+        "rank": 5,
+        "repo_id": "NousResearch/Arete-27B",
+        "author": "NousResearch",
+        "likes": 585,
+        "downloads": 6191,
+        "trending_score": 398,
+        "url": "https://huggingface.co/NousResearch/Arete-27B"
+      },
+      {
+        "rank": 6,
+        "repo_id": "speridlabs/idol",
+        "author": "speridlabs",
+        "likes": 2328,
+        "downloads": 32619,
+        "trending_score": 373,
+        "url": "https://huggingface.co/speridlabs/idol"
+      },
+      {
+        "rank": 7,
+        "repo_id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "author": "DavidAU",
+        "likes": 3102,
+        "downloads": 1657783,
+        "trending_score": 372,
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+      },
+      {
+        "rank": 8,
+        "repo_id": "Comfy-Org/MiniMax-H3-Image",
+        "author": "Comfy-Org",
+        "likes": 372,
+        "downloads": 1615613,
+        "trending_score": 339,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+      },
+      {
+        "rank": 9,
+        "repo_id": "moonshotai/Kimi-K3.1-Pro",
+        "author": "moonshotai",
+        "likes": 2068,
+        "downloads": 43687,
+        "trending_score": 337,
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      },
+      {
+        "rank": 10,
+        "repo_id": "Zyphra/ZONOS3-Mini",
+        "author": "Zyphra",
+        "likes": 329,
+        "downloads": 19743,
+        "trending_score": 289,
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+      }
+    ],
+    "datasets": [
+      {
+        "rank": 1,
+        "repo_id": "Angais/pixel-art-atlas-1.4m",
+        "author": "Angais",
+        "likes": 471,
+        "downloads": 57565,
+        "trending_score": 400,
+        "url": "https://huggingface.co/Angais/pixel-art-atlas-1.4m"
+      },
+      {
+        "rank": 2,
+        "repo_id": "Vyber07/cyber-security",
+        "author": "Vyber07",
+        "likes": 1041,
+        "downloads": 20702,
+        "trending_score": 237,
+        "url": "https://huggingface.co/Vyber07/cyber-security"
+      },
+      {
+        "rank": 3,
+        "repo_id": "nvidia/simready-assets",
+        "author": "nvidia",
+        "likes": 1576,
+        "downloads": 1569965,
+        "trending_score": 92,
+        "url": "https://huggingface.co/nvidia/simready-assets"
+      },
+      {
+        "rank": 4,
+        "repo_id": "tencent/TailorRig",
+        "author": "tencent",
+        "likes": 96,
+        "downloads": 5803,
+        "trending_score": 59,
+        "url": "https://huggingface.co/tencent/TailorRig"
+      },
+      {
+        "rank": 5,
+        "repo_id": "nvidia/PhysicalAI-Human-1M-100K",
+        "author": "nvidia",
+        "likes": 53,
+        "downloads": 9492,
+        "trending_score": 49,
+        "url": "https://huggingface.co/nvidia/PhysicalAI-Human-1M-100K"
+      },
+      {
+        "rank": 6,
+        "repo_id": "NousResearch/arete-data-pairs",
+        "author": "NousResearch",
+        "likes": 71,
+        "downloads": 1521,
+        "trending_score": 47,
+        "url": "https://huggingface.co/NousResearch/arete-data-pairs"
+      },
+      {
+        "rank": 7,
+        "repo_id": "codepawl/plateau-city-glb",
+        "author": "codepawl",
+        "likes": 46,
+        "downloads": 9362,
+        "trending_score": 39,
+        "url": "https://huggingface.co/codepawl/plateau-city-glb"
+      },
+      {
+        "rank": 8,
+        "repo_id": "open-index/hacker-news",
+        "author": "open-index",
+        "likes": 580,
+        "downloads": 459114,
+        "trending_score": 38,
+        "url": "https://huggingface.co/open-index/hacker-news"
+      },
+      {
+        "rank": 9,
+        "repo_id": "ccore/ThreeJS-3D-Scenes",
+        "author": "ccore",
+        "likes": 124,
+        "downloads": 11902,
+        "trending_score": 37,
+        "url": "https://huggingface.co/ccore/ThreeJS-3D-Scenes"
+      },
+      {
+        "rank": 10,
+        "repo_id": "israellaguan/codex-tool-use-trajectories",
+        "author": "israellaguan",
+        "likes": 48,
+        "downloads": 895,
+        "trending_score": 35,
+        "url": "https://huggingface.co/israellaguan/codex-tool-use-trajectories"
+      }
+    ],
+    "spaces": [
+      {
+        "rank": 1,
+        "repo_id": "huggingface/moe-blogpost",
+        "author": "huggingface",
+        "likes": 626,
+        "downloads": 0,
+        "trending_score": 298,
+        "url": "https://huggingface.co/spaces/huggingface/moe-blogpost"
+      },
+      {
+        "rank": 2,
+        "repo_id": "joelniklaus/harness-leaderboard",
+        "author": "joelniklaus",
+        "likes": 358,
+        "downloads": 0,
+        "trending_score": 230,
+        "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard"
+      },
+      {
+        "rank": 3,
+        "repo_id": "kulkas2pintu/wan777",
+        "author": "kulkas2pintu",
+        "likes": 1594,
+        "downloads": 0,
+        "trending_score": 144,
+        "url": "https://huggingface.co/spaces/kulkas2pintu/wan777"
+      },
+      {
+        "rank": 4,
+        "repo_id": "JCisHERE/wan2-2-i2v-v3",
+        "author": "JCisHERE",
+        "likes": 372,
+        "downloads": 0,
+        "trending_score": 95,
+        "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3"
+      },
+      {
+        "rank": 5,
+        "repo_id": "PrunaAI/P-H3-Image",
+        "author": "PrunaAI",
+        "likes": 154,
+        "downloads": 0,
+        "trending_score": 83,
+        "url": "https://huggingface.co/spaces/PrunaAI/P-H3-Image"
+      },
+      {
+        "rank": 6,
+        "repo_id": "hugging-apps/bfs-best-face-swap",
+        "author": "hugging-apps",
+        "likes": 928,
+        "downloads": 0,
+        "trending_score": 81,
+        "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap"
+      },
+      {
+        "rank": 7,
+        "repo_id": "MiniMaxAI/minimax-h3-image",
+        "author": "MiniMaxAI",
+        "likes": 91,
+        "downloads": 0,
+        "trending_score": 80,
+        "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image"
+      },
+      {
+        "rank": 8,
+        "repo_id": "speridlabs/idol",
+        "author": "speridlabs",
+        "likes": 266,
+        "downloads": 0,
+        "trending_score": 72,
+        "url": "https://huggingface.co/spaces/speridlabs/idol"
+      },
+      {
+        "rank": 9,
+        "repo_id": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
+        "author": "aaaa33311",
+        "likes": 166,
+        "downloads": 0,
+        "trending_score": 57,
+        "url": "https://huggingface.co/spaces/aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing"
+      },
+      {
+        "rank": 10,
+        "repo_id": "Tanyakhan/pornflux-i2v-6e9et",
+        "author": "Tanyakhan",
+        "likes": 196,
+        "downloads": 0,
+        "trending_score": 54,
+        "url": "https://huggingface.co/spaces/Tanyakhan/pornflux-i2v-6e9et"
+      }
+    ]
+  }
+}

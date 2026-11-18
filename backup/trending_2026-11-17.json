@@ -1,0 +1,282 @@
+{
+  "beijing_date": "2026-11-17",
+  "fetched_at": "2026-11-17 18:25:09",
+  "repo_types": {
+    "models": [
+      {
+        "rank": 1,
+        "repo_id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "author": "xtools-at",
+        "likes": 9404,
+        "downloads": 29567,
+        "trending_score": 3030.2999999999997,
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+      },
+      {
+        "rank": 2,
+        "repo_id": "MiniMaxAI/MiniMax-H3-Image",
+        "author": "MiniMaxAI",
+        "likes": 1360,
+        "downloads": 609130,
+        "trending_score": 1177,
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+      },
+      {
+        "rank": 3,
+        "repo_id": "Qwen/Qwen3.8-27B",
+        "author": "Qwen",
+        "likes": 20329,
+        "downloads": 6763402,
+        "trending_score": 507,
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+      },
+      {
+        "rank": 4,
+        "repo_id": "Lightricks/LTX-2.5",
+        "author": "Lightricks",
+        "likes": 12313,
+        "downloads": 2789021,
+        "trending_score": 458,
+        "url": "https://huggingface.co/Lightricks/LTX-2.5"
+      },
+      {
+        "rank": 5,
+        "repo_id": "Comfy-Org/MiniMax-H3-Image",
+        "author": "Comfy-Org",
+        "likes": 505,
+        "downloads": 2294065,
+        "trending_score": 424,
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+      },
+      {
+        "rank": 6,
+        "repo_id": "Zyphra/ZONOS3-Mini",
+        "author": "Zyphra",
+        "likes": 498,
+        "downloads": 69946,
+        "trending_score": 417,
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini"
+      },
+      {
+        "rank": 7,
+        "repo_id": "higurashi-ai/Haru-4B",
+        "author": "higurashi-ai",
+        "likes": 460,
+        "downloads": 3372,
+        "trending_score": 413,
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+      },
+      {
+        "rank": 8,
+        "repo_id": "thinkingmachines/Inkling-2-Small",
+        "author": "thinkingmachines",
+        "likes": 430,
+        "downloads": 16918,
+        "trending_score": 375,
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+      },
+      {
+        "rank": 9,
+        "repo_id": "unsloth/Qwen3.8-27B-GGUF",
+        "author": "unsloth",
+        "likes": 6105,
+        "downloads": 6666734,
+        "trending_score": 360,
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
+      },
+      {
+        "rank": 10,
+        "repo_id": "speridlabs/idol",
+        "author": "speridlabs",
+        "likes": 2438,
+        "downloads": 34752,
+        "trending_score": 291,
+        "url": "https://huggingface.co/speridlabs/idol"
+      }
+    ],
+    "datasets": [
+      {
+        "rank": 1,
+        "repo_id": "Angais/pixel-art-atlas-1.4m",
+        "author": "Angais",
+        "likes": 545,
+        "downloads": 63417,
+        "trending_score": 274,
+        "url": "https://huggingface.co/Angais/pixel-art-atlas-1.4m"
+      },
+      {
+        "rank": 2,
+        "repo_id": "Vyber07/cyber-security",
+        "author": "Vyber07",
+        "likes": 1137,
+        "downloads": 23283,
+        "trending_score": 252,
+        "url": "https://huggingface.co/Vyber07/cyber-security"
+      },
+      {
+        "rank": 3,
+        "repo_id": "nvidia/simready-assets",
+        "author": "nvidia",
+        "likes": 1618,
+        "downloads": 1658012,
+        "trending_score": 92,
+        "url": "https://huggingface.co/nvidia/simready-assets"
+      },
+      {
+        "rank": 4,
+        "repo_id": "tencent/TailorRig",
+        "author": "tencent",
+        "likes": 116,
+        "downloads": 5895,
+        "trending_score": 54,
+        "url": "https://huggingface.co/tencent/TailorRig"
+      },
+      {
+        "rank": 5,
+        "repo_id": "google/physical-engineerings-last-exam",
+        "author": "google",
+        "likes": 81,
+        "downloads": 127161,
+        "trending_score": 48,
+        "url": "https://huggingface.co/google/physical-engineerings-last-exam"
+      },
+      {
+        "rank": 6,
+        "repo_id": "nvidia/PhysicalAI-Human-1M-100K",
+        "author": "nvidia",
+        "likes": 68,
+        "downloads": 12291,
+        "trending_score": 47,
+        "url": "https://huggingface.co/nvidia/PhysicalAI-Human-1M-100K"
+      },
+      {
+        "rank": 7,
+        "repo_id": "google/multimodal-knowledge-agent",
+        "author": "google",
+        "likes": 49,
+        "downloads": 4248,
+        "trending_score": 44,
+        "url": "https://huggingface.co/google/multimodal-knowledge-agent"
+      },
+      {
+        "rank": 8,
+        "repo_id": "nvidia/USDCraft-10K",
+        "author": "nvidia",
+        "likes": 46,
+        "downloads": 6485,
+        "trending_score": 39,
+        "url": "https://huggingface.co/nvidia/USDCraft-10K"
+      },
+      {
+        "rank": 9,
+        "repo_id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+        "author": "venvoo",
+        "likes": 750,
+        "downloads": 210751,
+        "trending_score": 37,
+        "url": "https://huggingface.co/venvoo/china-a-share-l2-level2-limit-order-book-tick-data"
+      },
+      {
+        "rank": 10,
+        "repo_id": "arc4g/arc-art",
+        "author": "arc4g",
+        "likes": 53,
+        "downloads": 2418,
+        "trending_score": 36,
+        "url": "https://huggingface.co/arc4g/arc-art"
+      }
+    ],
+    "spaces": [
+      {
+        "rank": 1,
+        "repo_id": "huggingface/moe-blogpost",
+        "author": "huggingface",
+        "likes": 705,
+        "downloads": 0,
+        "trending_score": 262,
+        "url": "https://huggingface.co/spaces/huggingface/moe-blogpost"
+      },
+      {
+        "rank": 2,
+        "repo_id": "joelniklaus/harness-leaderboard",
+        "author": "joelniklaus",
+        "likes": 414,
+        "downloads": 0,
+        "trending_score": 194,
+        "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard"
+      },
+      {
+        "rank": 3,
+        "repo_id": "kulkas2pintu/wan777",
+        "author": "kulkas2pintu",
+        "likes": 1656,
+        "downloads": 0,
+        "trending_score": 139,
+        "url": "https://huggingface.co/spaces/kulkas2pintu/wan777"
+      },
+      {
+        "rank": 4,
+        "repo_id": "MiniMaxAI/minimax-h3-image",
+        "author": "MiniMaxAI",
+        "likes": 138,
+        "downloads": 0,
+        "trending_score": 121,
+        "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image"
+      },
+      {
+        "rank": 5,
+        "repo_id": "JCisHERE/wan2-2-i2v-v3",
+        "author": "JCisHERE",
+        "likes": 416,
+        "downloads": 0,
+        "trending_score": 100,
+        "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3"
+      },
+      {
+        "rank": 6,
+        "repo_id": "PrunaAI/P-H3-Image",
+        "author": "PrunaAI",
+        "likes": 177,
+        "downloads": 0,
+        "trending_score": 83,
+        "url": "https://huggingface.co/spaces/PrunaAI/P-H3-Image"
+      },
+      {
+        "rank": 7,
+        "repo_id": "hugging-apps/bfs-best-face-swap",
+        "author": "hugging-apps",
+        "likes": 961,
+        "downloads": 0,
+        "trending_score": 77,
+        "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap"
+      },
+      {
+        "rank": 8,
+        "repo_id": "rdata92/LTX-2.3-10Eros",
+        "author": "rdata92",
+        "likes": 192,
+        "downloads": 0,
+        "trending_score": 56,
+        "url": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros"
+      },
+      {
+        "rank": 9,
+        "repo_id": "speridlabs/idol",
+        "author": "speridlabs",
+        "likes": 278,
+        "downloads": 0,
+        "trending_score": 56,
+        "url": "https://huggingface.co/spaces/speridlabs/idol"
+      },
+      {
+        "rank": 10,
+        "repo_id": "townbox/ava",
+        "author": "townbox",
+        "likes": 121,
+        "downloads": 0,
+        "trending_score": 56,
+        "url": "https://huggingface.co/spaces/townbox/ava"
+      }
+    ]
+  }
+}

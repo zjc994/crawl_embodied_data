@@ -1,0 +1,11 @@
+﻿rank,repo_id,repo_type,likes,downloads,score,url,github_url,github_verified,space_url,space_source,matched_keywords,description,note,fetched_at
+1,lerobot/smolvla_base,models,493,139083,9930,https://huggingface.co/lerobot/smolvla_base,https://github.com/huggingface/lerobot,1,,none,lerobot,SmolVLA (LeRobot),无官方 Demo,2026-11-15 20:00:44
+2,tencent/HY-Embodied-0.5,models,923,640,9870,https://huggingface.co/tencent/HY-Embodied-0.5,https://github.com/Tencent-Hunyuan/HY-Embodied,1,https://huggingface.co/spaces/tencent/HY-Embodied-0.5,author_list,embodied,# 🔥 Updates,,2026-11-15 20:00:44
+3,nvidia/GR00T-N1.7-3B,models,190,56610,6900,https://huggingface.co/nvidia/GR00T-N1.7-3B,https://github.com/NVIDIA/Isaac-GR00T,1,,none,gr00t,Model Overview,无官方 Demo,2026-11-15 20:00:44
+4,lerobot/pi05_base,models,120,22118,6200,https://huggingface.co/lerobot/pi05_base,https://github.com/Physical-Intelligence/openpi,1,,none,"lerobot,pi0,pi05",π₀.₅ (Pi05) (LeRobot),无官方 Demo,2026-11-15 20:00:44
+5,pollen-robotics/microduck-policies,models,55,70280,5550,https://huggingface.co/pollen-robotics/microduck-policies,https://github.com/pollen-robotics/microduck,1,https://huggingface.co/spaces/pollen-robotics/microduck-simulator,author_list,"robot,robotic,robotics",,,2026-11-15 20:00:44
+6,lerobot/pi0_base,models,32,18058,5320,https://huggingface.co/lerobot/pi0_base,https://github.com/Physical-Intelligence/openpi,1,,none,"lerobot,pi0",π₀ (Pi0) (LeRobot),无官方 Demo,2026-11-15 20:00:44
+7,2toINF/X-VLA-Pt,models,14,9226,5140,https://huggingface.co/2toINF/X-VLA-Pt,https://github.com/2toinf/X-VLA,1,,none,vla,X-VLA 0.9B (Foundation Edition),无官方 Demo,2026-11-15 20:00:44
+8,leggedrobotics/defm,models,12,10574,5120,https://huggingface.co/leggedrobotics/defm,https://github.com/leggedrobotics/defm,1,,none,legged,DeFM: Learning Foundation Representations from Depth for Robotics,无官方 Demo,2026-11-15 20:00:44
+9,x-square-robot/wall-oss-flow,models,34,4071,4411,https://huggingface.co/x-square-robot/wall-oss-flow,https://github.com/X-Square-Robot/wall-x,1,,none,robot,WALL-OSS,无官方 Demo,2026-11-15 20:00:44
+10,XiaomiMiMo/MiMo-Embodied-7B,models,77,2356,3126,https://huggingface.co/XiaomiMiMo/MiMo-Embodied-7B,,0,,none,embodied,# I. Introduction,无官方开源代码；无官方 Demo,2026-11-15 20:00:44

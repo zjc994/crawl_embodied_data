@@ -1,0 +1,31 @@
+# 主数据库：13MB，可由三个脚本重新生成，不入库
+hf_data.db
+*.db
+
+# 改造前的数据库快照（回滚用，体积大）
+backup/*.db
+backup/*.pkl
+
+# 凭据：绝对不能提交
+hf_token.txt
+.env
+*.token
+
+# 运行输出
+*.out
+*.log
+
+# 工作区记忆
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
